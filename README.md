@@ -60,4 +60,5 @@ Transfer Learning using pretrained models like ResNet or VGG, which can boost ac
 This project successfully implemented a deep learning model for image classification using TensorFlow. It covered data preprocessing, model building, training, evaluation, and visualization. The experience not only met the project requirements but also provided practical exposure to CNNs, one of the most powerful techniques in computer vision. The knowledge gained will be valuable for future research, internships, and interviews in data science and AI fields.
 
 *OUTPUT*:
+<img width="1853" height="745" alt="Image" src="https://github.com/user-attachments/assets/499a10f7-e806-4be1-b01a-0c2d1d28be15" />
 

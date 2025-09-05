@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION*: 
+
 Introduction
 
 The goal of this project was to design and implement a deep learning model for image classification using the CIFAR-10 dataset and TensorFlow. The CIFAR-10 dataset is widely used for benchmarking computer vision models and consists of 60,000 color images in 10 different categories such as airplanes, automobiles, birds, cats, dogs, and ships. Each image is only 32×32 pixels in size, which makes classification both challenging and insightful. This project provided hands-on experience in building and training a Convolutional Neural Network (CNN), evaluating its performance, and visualizing the results.
